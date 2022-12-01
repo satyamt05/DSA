@@ -15,4 +15,4 @@ class Solution:
                 m=b[i]
                 l.append(m)     
         return 
-      
+      #singlenumber
